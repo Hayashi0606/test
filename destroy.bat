@@ -1,0 +1,1 @@
+PowerShell -command python "source\destroy.py"
