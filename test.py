@@ -1,4 +1,4 @@
 def main():
-    print('Hello Python')
+    print('うんちおいしいね‼')
 if __name__ == '__main__':
     main()
